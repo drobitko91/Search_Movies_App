@@ -2,19 +2,19 @@
 
 %fontfamily {
   font-family: "Mina", sans-serif;
-  color: aqua;
+  color: rgb(121, 39, 253);
 }
 
 %title {
   font-size: 2rem;
-  color: aqua;
+  color: rgb(121, 39, 253)
   text-shadow: 0 0 0.2rem #000;
   text-align: center;
 }
 
 %subtitle {
   font-size: 1.5rem;
-  color: aqua;
+  color: rgb(121, 39, 253)
   text-shadow: 0 0 0.2rem #000;
   text-align: center;
 }
@@ -27,12 +27,12 @@
 
 %text {
   font-size: 1rem;
-  color: aqua;
+  color: rgb(121, 39, 253)
 }
 
 %button {
   font-size: 1rem;
-  color: aqua;
+  color: rgb(121, 39, 253)
   text-shadow: 0 0 0.2rem #000;
   text-transform: uppercase;
 }
@@ -47,7 +47,7 @@
 
 %button-form {
   font-size: 1.2rem;
-  color: aqua;
+  color: rgb(121, 39, 253)
   text-shadow: 0 0 0.2rem #000;
   text-transform: uppercase;
   font-weight: bolder;
@@ -64,5 +64,5 @@
 
 %button-form-disabled {
   text-shadow: none;
-  color: rgba($color: aqua, $alpha: 0.2);
+  color: rgba($color: rgb(111, 50, 208), $alpha: 0.2);
 }
